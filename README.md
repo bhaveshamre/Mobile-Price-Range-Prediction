@@ -3,6 +3,10 @@ Supervised Machine Learning- Classification
 
 
 
+![image](https://user-images.githubusercontent.com/112196036/210432668-f43fc31f-34d9-4da2-98b4-e7bd3385e742.png)
+
+
+
 # PROBLEM STATEMENT
 In the competitive mobile phone market companies want to understand sales data of mobile phones and factors which drive the prices. The objective is to find out some relation between features of a mobile phone(eg:- RAM, Internal Memory, etc) and its selling price. In this problem, we do not have to predict the actual price but a price range indicating how high the price is
 
